@@ -1,1 +1,63 @@
+
 Have a nice day
+
+
+here is my history:
+   61  git clone git@github.com:astowny/Projet-git-tony.git
+   62  cd Projet-git-tony/
+   63  ls
+   64  git branch
+   65  git branch --all
+   66  git checkout -b tony
+   67  git status
+   68  git ls
+   69  ls
+   70  git log
+   71  git push
+   72   git push --set-upstream origin tony
+   73  git pull
+   74   git branch --set-upstream-to=origin/tony tony
+   75  git pull
+   76  git pull origin tony
+   77  git pull origin tony --allow-unrelated-histories
+   78  git log
+   79  touch "secondfile.txt"
+   80  git add secondfile.txt
+   81  git commit -m "second file"
+   82  git push
+   83  touch pythonfile.py
+   84  git add pythonfile.py
+   85  git commit -m "python file"
+   86  git tag python-file
+   87  gittag -l
+   88  git tag -l
+   89  touch readme.txt
+   90  git add readme.txt
+   91  git commit -m 'readme.txt'
+   92  git tag readme
+   93  git push
+   94  git push pythonfile.py
+   95  git push orign pythonfile.py
+   96  git push origin pythonfile.py
+   97  git push origin python-file
+   98  git push origin readme
+   99  git remote add git@github.com:samantafagam/Depot_s.git~
+  100  git remote add git@github.com:samantafagam/Depot_s.git
+  101  git remote add samanta git@github.com:samantafagam/Depot_s.git
+  102  git branch
+  103  git remote -v
+  104  touch Notes.txt
+  105  git remote rename samanta samantafagam
+  106  git remote -v
+  107  git branch --all
+  108  git fetch samantafagam
+  109  git branch --all
+  110  git remote show samantafagam
+  111  git status
+  112  nano Notes.txt
+  113  git add Notes.txt
+  114  git commit -m "notes"
+  115  git status
+  116  git push
+  117  git push samantafagam tony
+  118  history
